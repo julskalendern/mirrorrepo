@@ -1,0 +1,8 @@
+alertmanager:
+  enabled: false
+#описанное в уроке не работает, "подобрала" на основе кода в гите
+prometheus-node-exporter:
+  enabled: false
+#аналогично
+prometheus-pushgateway:
+  enabled: false
